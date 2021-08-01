@@ -1,3 +1,3 @@
 - Menambahkan dukungan pembayaran vie e-wallet (OVO, DANA, GoPay)
-- Menambahkan dukungan pembayran Alfamidi & Indomaret
+- Menambahkan dukungan pembayaran Alfamidi & Indomaret
 - Melakukan hitungan total akhir pembayaran lengkap dengan jasa ongkirnya
